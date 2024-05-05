@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//MohammadY9795.github.io/al-asr/static/css/main.dfff3a80.css",
+    "main.js": "/https//MohammadY9795.github.io/al-asr/static/js/main.dc6c2019.js",
+    "static/js/453.e80cdfe6.chunk.js": "/https//MohammadY9795.github.io/al-asr/static/js/453.e80cdfe6.chunk.js",
+    "index.html": "/https//MohammadY9795.github.io/al-asr/index.html",
+    "main.dfff3a80.css.map": "/https//MohammadY9795.github.io/al-asr/static/css/main.dfff3a80.css.map",
+    "main.dc6c2019.js.map": "/https//MohammadY9795.github.io/al-asr/static/js/main.dc6c2019.js.map",
+    "453.e80cdfe6.chunk.js.map": "/https//MohammadY9795.github.io/al-asr/static/js/453.e80cdfe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfff3a80.css",
+    "static/js/main.dc6c2019.js"
+  ]
+}
